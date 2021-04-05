@@ -1,0 +1,52 @@
+@font-face {
+  font-family: Oswald;
+  src: url(./../fonts/Oswald-Medium.ttf);
+}
+@font-face {
+  font-family: SVN-Avo;
+  src: url(./../fonts/UTM Avo.ttf);
+}
+@font-face {
+  font-family: SVN-Poppins;
+  src: url(./../fonts/SVN-Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: SVN-Poppinsmedium;
+  src: url(./../fonts/SVN-Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: SVN-Poppinsregular;
+  src: url(./../fonts/SVN-Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: SVN-Poppinslight;
+  src: url(./../fonts/SVN-Poppins-Light.ttf);
+}
+
+@font-face {
+  font-family: SVN-Kelson Sans;
+  src: url(./../fonts/SVN-Kelson-Sans-Regular.otf);
+}
+@font-face {
+  font-family: SVN-Kelsonlight;
+  src: url(./../fonts/SVN-Kelson-Sans-Light.otf);
+}
+@font-face {
+  font-family: SVN-Kelsonbold;
+  src: url(./../fonts/SVN-Kelson-Sans-Bold.otf);
+}
+
+@font-face {
+  font-family: MTD-Simpletune;
+  src: url(./../fonts/MTD-Simpletune.otf);
+}
+
+@media screen and (max-width: 1366px) {
+  .img_fixed_homepage_1 , .img_fixed_homepage_2 {
+    display: none;
+  }
+  .icon_allpage {
+    right: 15px;
+  }
+}
+
